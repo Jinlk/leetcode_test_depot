@@ -3,6 +3,17 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/leetcode_save/leetcode/editor/cn/[14]最长公共前缀.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode_save/leetcode/editor/cn/doc/content/[14]最长公共前缀.md" />
+              <option name="frontendQuestionId" value="leetcode.cn14" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode_save/leetcode/editor/cn/[14]最长公共前缀.py" />
+              <option name="titleSlug" value="longest-common-prefix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode_save/leetcode/editor/cn/[1]两数之和.py">
           <value>
             <LeetcodeEditor>
@@ -11,6 +22,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode_save/leetcode/editor/cn/[1]两数之和.py" />
               <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode_save/leetcode/editor/cn/[9]回文数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode_save/leetcode/editor/cn/doc/content/[9]回文数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn9" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode_save/leetcode/editor/cn/[9]回文数.py" />
+              <option name="titleSlug" value="palindrome-number" />
             </LeetcodeEditor>
           </value>
         </entry>
